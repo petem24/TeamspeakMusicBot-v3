@@ -2,7 +2,6 @@
 
 A simple c# application that allows control over a local spotify instance via teamspeak 3 chat.
 
-meme
 
 !add {spotify-uri} - Adds song to the queue. If playlist is playing this will override.
 
@@ -12,7 +11,7 @@ meme
 
 !track {track-name} - Plays a track (e.g flashing lights kanye)
 
-!volume {0-100} - Changes the volume of memebot.
+!volume {0-100} - Changes the volume of bot.
 
 !skip - Skips currently playing song.
 
